@@ -1,0 +1,28 @@
+{
+  "name": "chromium-path",
+  "version": "0.0.0",
+  "description": "Getting path for chromium / chrome, it returns paths of chromium / chrome installed on your system",
+  "license": "MIT",
+  "repository": "ragingwind/chromium-path",
+  "author": {
+    "name": "ragingwind",
+    "email": "ragingwind@gmail.com",
+    "url": "ragingwind.me"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "chromium",
+    "chrome",
+    "path"
+  ],
+  "dependencies": {
+    "lsregister": "^0.0.1"
+  }
+}
